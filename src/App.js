@@ -8,6 +8,7 @@ function App() {
     <>
       <TopBar className="top-bar" />
       <div className="container">
+      <h1>Product List Component</h1>
         <ProductList />
       </div>
     </>
