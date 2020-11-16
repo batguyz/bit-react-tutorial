@@ -12,11 +12,15 @@
 
     cursor: pointer;
 
-    background-color: #68bb5d;
+    background-color:rgb(71, 14, 204);
 
     color: white;
 
     border: none;
+
+    margin: 4px;
+
+
 
   }
 
